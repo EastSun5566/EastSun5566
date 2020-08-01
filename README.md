@@ -1,4 +1,4 @@
-### 👋 Hi, I am Michael（東陽）
+### 👋 Hi, I am Michael 東陽
 
 - Backend Developer [@Fandora](https://fandorashop.com/)
 - I ❤️ JavaScript/TypeScript & Web Development
