@@ -2,4 +2,4 @@
 
 - Backend Developer [@Fandora](https://fandorashop.com/)
 - ❤️ JavaScript/TypeScript & Web Development
-- Currently focusing on doing more open source projects 😊
+- Currently focusing on doing more OSS projects 😊
