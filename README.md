@@ -1,5 +1,5 @@
 ### 👋 Hi, I am Michael 東陽 aka EastSun
 
-- ❤️ TypeScript fanboy
-- Trying to learn Rust
-- Currently focusing on doing more OSS projects 😊
+- I am a TypeScript fanboy ❤️
+- Currently trying to learn Rust 📚
+- Focusing on doing more OSS projects 😊
