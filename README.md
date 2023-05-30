@@ -2,4 +2,4 @@
 
 - I do Web development & [Cardistry](https://www.youtube.com/@eastsun5566)
 - TypeScript fanboy ❤️
-- Interesting in Web infra/tooling, video streaming & collaborative editing
+- Interesting in Web infra/tooling, video streaming & collaborative editing 😊
