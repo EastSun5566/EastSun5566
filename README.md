@@ -1,6 +1,6 @@
 ### 👋 Here is Michael 東陽 <sub><sup>aka EastSun5566</sup></sub>
 
-> Currently, I am working on [HackDesk](https://github.com/EastSun5566/hackdesk) 🚀
+> Currently, I am building [HackDesk](https://github.com/EastSun5566/hackdesk) 🚀
 
 - I do Web dev & [Cardistry](https://www.youtube.com/@eastsun5566) ✨
 - TypeScript fanboy ❤️
