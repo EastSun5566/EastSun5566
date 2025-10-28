@@ -4,7 +4,8 @@
 
 _I build web-based tools and enjoy exploring unknown things 🙂_
 
-Currently, I am building **[HackDesk](https://github.com/EastSun5566/hackdesk)** 🚀
+Currently, I am building **[HackDesk](https://github.com/EastSun5566/hackdesk)**
+🚀
 
 </samp>
 
